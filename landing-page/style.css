@@ -1,0 +1,37 @@
+body {
+    display:flex;
+    flex-direction: column;
+    margin:0;
+    color:white;
+    height: 100vh;
+}
+
+.container-1, .container-2, .container-3, .container-4 {
+    flex:1;
+    
+    
+}
+
+
+.container-1 {
+    background-color: #1F2937;
+    
+}
+
+.container-2 {
+    background-color: white;
+}
+.container-3 {
+    background-color: #E5E7EB;
+}
+.container-2 {
+    background-color: white;
+}
+
+
+.header, .footer {  
+    
+    min-height:50px;
+    background-color: #1F2937;
+    
+}
