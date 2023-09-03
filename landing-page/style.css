@@ -122,3 +122,47 @@ a {
     padding-right: 65px;
     cursor:pointer;
 }
+
+
+.container-2 {
+    display:flex;
+    flex-direction:column;
+    padding: 0 150px;
+    
+}
+
+.title-container-2 {
+    display:flex;
+    font-size: 36px;
+    font-weight:bolder;
+    justify-content: center;
+    color:#1F2937;
+    
+}
+
+.content-container-2 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.image-container-2 {
+    display:flex;
+    flex:1;
+    flex-direction: column;
+    padding: 15px;
+    color:#1F2937;
+    text-align: center;
+    
+    
+}
+
+
+.image-image-container-2 {
+    border: 5px solid;
+    border-color:#3882F6;
+    width: 100%
+    
+}
